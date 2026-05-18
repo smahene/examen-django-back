@@ -1,0 +1,7 @@
+[
+  {"model": "articles.article", "pk": 1, "fields": {"title": "Introduction à Django", "body": "Django est un framework web Python puissant et rapide."}},
+  {"model": "articles.article", "pk": 2, "fields": {"title": "React et les hooks", "body": "Les hooks ont révolutionné la façon d'écrire des composants React."}},
+  {"model": "articles.article", "pk": 3, "fields": {"title": "Le déploiement web", "body": "Déployer une application full-stack demande une bonne préparation."}},
+  {"model": "articles.article", "pk": 4, "fields": {"title": "PostgreSQL en production", "body": "PostgreSQL est la base de données de référence pour les apps sérieuses."}},
+  {"model": "articles.article", "pk": 5, "fields": {"title": "Les variables d'environnement", "body": "Ne jamais mettre de secrets dans le code source, toujours utiliser des variables d'environnement."}}
+]
